@@ -1,22 +1,20 @@
 # Push Notifications codelab
 
-Code for the Web Fundamentals [Push Notifications codelab](https://codelabs.developers.google.com/codelabs/push-notifications/).
+Code reference to the Web Fundamentals [Push Notifications codelab](https://codelabs.developers.google.com/codelabs/push-notifications/).
 
-In this codelab, you'll learn how to add Push Notifications to web applications. This will enable you to re-engage users with breaking news and information about
-new content.
+## 
 
-You'll also learn the basics of Service Workers.
+1. Subscribe
 
-## What you'll learn
+https://ryukerliu.github.io/web-push-play-ground/
+Subscribe Push Notification
+Code: https://github.com/RyukerLiu/web-push-play-ground
 
-* Service Worker basics: installation and event handling
-* How to set up a Google Cloud Messaging (GCM) account
-* How to add a web manifest
-* Techniques for requesting GCM to send a notification to a web client
-* Notification display
-* Notification click handling
+2. Push
 
-Example code for each step of the codelab is available from the [completed](completed/) directory.
+https://node-js-web-pusher.glitch.me
+Push Notification
+Code: Glitch
 
 ## License
 
