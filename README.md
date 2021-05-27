@@ -7,14 +7,18 @@ Code reference to the Web Fundamentals [Push Notifications codelab](https://code
 1. Subscribe
 
 https://ryukerliu.github.io/web-push-play-ground/
+
 Subscribe Push Notification
+
 Code: https://github.com/RyukerLiu/web-push-play-ground
 
 2. Push
 
 https://node-js-web-pusher.glitch.me
+
 Push Notification
-Code: Glitch
+
+Code: https://glitch.com/edit/#!/node-js-web-pusher
 
 ## License
 
